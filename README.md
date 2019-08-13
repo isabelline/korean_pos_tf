@@ -1,3 +1,19 @@
+# Korean POS Tagger
+
+corpus: High quality morpho-syntactically annotated corpus (http://semanticweb.kaist.ac.kr/home/index.php/KAIST_Corpus)
+이운재, 김선배, 김길연, 최기선. (1999). 모듈화된 형태소 분석기의 구현. 한국정보과학회 언어공학연구회 학술발표 논문집, (), 123-136.
+
+Performance
+Test set(20% of data)
+|Epoch|Acc|F1|
+|--|--|--|
+|10|85.65%|-|
+|20|-|-|
+
+
+
+
+
 # Tensorflow - Named Entity Recognition
 
 Each folder contains a __standalone__, __short (~100 lines of Tensorflow)__, `main.py` that implements a neural-network based model for Named Entity Recognition (NER) using [`tf.estimator`](https://www.tensorflow.org/guide/custom_estimators) and [`tf.data`](https://www.tensorflow.org/guide/datasets).
