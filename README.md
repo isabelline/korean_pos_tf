@@ -1,10 +1,11 @@
 # Korean POS Tagger
 
-corpus: High quality morpho-syntactically annotated corpus (http://semanticweb.kaist.ac.kr/home/index.php/KAIST_Corpus)
+##corpus: High quality morpho-syntactically annotated corpus (http://semanticweb.kaist.ac.kr/home/index.php/KAIST_Corpus)
+
 이운재, 김선배, 김길연, 최기선. (1999). 모듈화된 형태소 분석기의 구현. 한국정보과학회 언어공학연구회 학술발표 논문집, (), 123-136.
 
-Performance
-Test set(20% of data)
+##Performance of Test set(20% of data)
+
 |Epoch|Acc|F1|
 |--|--|--|
 |10|85.65%|-|
