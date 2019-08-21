@@ -17,6 +17,13 @@ https://simonhessner.de/why-are-precision-recall-and-f1-score-equal-when-using-m
 
 
 
+
+![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+
+
+
+
 # Tensorflow - Named Entity Recognition
 
 Each folder contains a __standalone__, __short (~100 lines of Tensorflow)__, `main.py` that implements a neural-network based model for Named Entity Recognition (NER) using [`tf.estimator`](https://www.tensorflow.org/guide/custom_estimators) and [`tf.data`](https://www.tensorflow.org/guide/datasets).
