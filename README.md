@@ -6,11 +6,12 @@
 
 ### Performance of Test set(20% of data)
 
-|Epoch|Acc|F1|
+|Epoch|Acc|micro F1|
 |--|--|--|
-|10|85.65%|-|
+|10|85.65%|85.65|
 |20|-|-|
 
+* accuracy == micro f1 == micro precision == micro recall
 
 
 
