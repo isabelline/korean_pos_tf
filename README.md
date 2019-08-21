@@ -18,8 +18,8 @@ https://simonhessner.de/why-are-precision-recall-and-f1-score-equal-when-using-m
 
 
 
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![acc](https://github.com/isabelline/korean_pos_tf/blob/master/images/acc.PNG?raw=true)
+![loss](https://github.com/isabelline/korean_pos_tf/blob/master/images/loss.PNG?raw=true)
 
 
 
