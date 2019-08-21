@@ -12,6 +12,7 @@
 |lstm_crf|20|-|-|
 
 ( accuracy == micro f1 == micro precision == micro recall )
+https://simonhessner.de/why-are-precision-recall-and-f1-score-equal-when-using-micro-averaging-in-a-multi-class-problem/
 
 
 
