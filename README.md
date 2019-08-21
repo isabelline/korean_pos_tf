@@ -6,12 +6,12 @@
 
 ### Performance of Test set(20% of data)
 
-|Epoch|Acc|micro F1|
-|--|--|--|
-|10|85.65%|85.65|
-|20|-|-|
+|Model|Epoch|Acc|micro F1|
+|--|--|--|--|
+|lstm_crf|10|85.65%|85.65|
+|lstm_crf|20|-|-|
 
-* accuracy == micro f1 == micro precision == micro recall
+( accuracy == micro f1 == micro precision == micro recall )
 
 
 
