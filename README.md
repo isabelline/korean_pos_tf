@@ -22,6 +22,11 @@ https://simonhessner.de/why-are-precision-recall-and-f1-score-equal-when-using-m
 ![loss](https://github.com/isabelline/korean_pos_tf/blob/master/images/loss.PNG?raw=true)
 
 
+## EXOBrain NER Corpus (Korean)
+
+Lstm-crf: 86% acc
+
+
 
 
 # Tensorflow - Named Entity Recognition
