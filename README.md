@@ -27,7 +27,7 @@ https://simonhessner.de/why-are-precision-recall-and-f1-score-equal-when-using-m
 Lstm-crf: 86% acc
 
 
-! [Accuracy] (images/acc.png)
+! [Accuracy] (images/sda.png)
 
 # Tensorflow - Named Entity Recognition
 
